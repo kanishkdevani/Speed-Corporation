@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Speed-Corporation
 - 👀 I’m interested in Cross-Platform Development
-- 🌱 I’m currently learning flutter
+- Speed Corporation is an app developing company created to develop customer useful apps.
 - 📫 You can reach me by mailing at speedcorporation16@gmail.com
 
 <!---
